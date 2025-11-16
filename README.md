@@ -15,4 +15,4 @@ If the user reloads the page, all the data will be saved.
 - Vanilla JavaScript
 - Leaflet API
 
-Author : Pritam Bera
+Author : Pritam Bera 
